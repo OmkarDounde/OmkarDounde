@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnal-red)](https://www.youtube.com/channel/UCi8jUsFL8NL7ZqzICqlW_1Ql)
 [![Linkedin Badge](https://img.shields.io/badge/-Omkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-dounde-58596716b/)](https://www.linkedin.com/in/omkar-dounde-58596716b/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Omkar-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Omkar-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Omkar-yellow)](https://stackoverflow.com/users/20050995/omkar-dounde)
 
 I'm
 Full Stack Solution Architect
